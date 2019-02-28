@@ -1,0 +1,1 @@
+[22-Feb-2019 08:22:08 UTC] PHP Fatal error:  Cannot redeclare Login::index() in /home/s0rm936b3ajg/public_html/ptc/admin/application/controllers/Login.php on line 20
